@@ -1,3 +1,5 @@
+from __init__ import *
+
 from PIL import Image
 import requests
 from io import BytesIO
